@@ -1,4 +1,4 @@
-# Graph Algorithms in C++
+# Graph OOP implementation
 
 This project implements a modular and extensible Graph class hierarchy in C++, supporting various types of graphs and common graph algorithms.
 
